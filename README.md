@@ -1,9 +1,7 @@
-# README
-<img src="https://nextflow-io.github.io/nf-hack18/assets/nextflow_logo.png" width="25%" />
+<img src="https://nextflow-io.github.io/nf-hack18/assets/nextflow_logo.png" width="35%" />
+This is a collection of bash scripts meant to use [NextFlow](https://www.nextflow.io/) on Bridges2.
 
-This is a collection of scripts meant to be used on Bridges2.
-
-Enjoy.
+Nextflow enables scalable and reproducible scientific workflows using software containers. It allows the adaptation of pipelines written in the most common scripting languages.
 
 ---
 Copyright © 2020-2022 Pittsburgh Supercomputing Center. All Rights Reserved.

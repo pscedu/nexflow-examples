@@ -1,4 +1,6 @@
 # README
+<img src="https://nextflow-io.github.io/nf-hack18/assets/nextflow_logo.png" width="25%" />
+
 This is a collection of scripts meant to be used on Bridges2.
 
 Enjoy.
